@@ -22,8 +22,8 @@ You will learn how to:
 ### 1️Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CodeFirstDemo.git
-cd CodeFirstDemo
+git clone https://github.com/SaiReddyA/DatabaseApproaches.git
+cd DatabaseApproaches
 ```
 
 ### 2️⃣ Install NuGet Packages
