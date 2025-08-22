@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodeFirstApproachWithSaiReddy/.vs/CodeFirstApproachWithSaiReddy
+/CodeFirstApproachWithSaiReddy/CodeFirstApproachWithSaiReddy/bin/Debug/net9.0
+/CodeFirstApproachWithSaiReddy/CodeFirstApproachWithSaiReddy/obj

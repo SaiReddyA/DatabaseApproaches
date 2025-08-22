@@ -1,0 +1,6 @@
+@CodeFirstApproachWithSaiReddy_HostAddress = http://localhost:5080
+
+GET {{CodeFirstApproachWithSaiReddy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
