@@ -6,7 +6,6 @@ You will learn how to:
 * Define model classes
 * Configure DbContext 
 * Run migrations
-
 ---
 
 ## Tech Stack
