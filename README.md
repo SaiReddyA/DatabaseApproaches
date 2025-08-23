@@ -3,6 +3,7 @@
 This project demonstrates the **Code First approach** in **.NET Core with Entity Framework Core**.
 You will learn how to:
 
+
 * Define model classes
 * Configure DbContext
 * Run migrations
