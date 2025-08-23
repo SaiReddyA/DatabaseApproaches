@@ -4,8 +4,7 @@ This project demonstrates the **Code First approach** in **.NET Core with Entity
 You will learn how to:
 
 * Define model classes
-* Configure DbContext
-* 
+* Configure DbContext 
 * Run migrations
 
 ---
