@@ -14,7 +14,6 @@ You will learn how to:
 * **SQL Server**
 
 
-
 ---
 
 
