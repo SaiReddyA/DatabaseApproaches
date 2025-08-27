@@ -15,7 +15,6 @@ You will learn how to:
 
 ---
 
-
 ## 📂 Project Setup
 
 
