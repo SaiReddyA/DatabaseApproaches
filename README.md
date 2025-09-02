@@ -13,7 +13,6 @@ You will learn how to:
 * **SQL Server**
 
 ---
-
 ## 📂 Project Setup
 
 ### 1️Clone the Repository
