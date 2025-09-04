@@ -12,7 +12,6 @@ You will learn how to:
 * **Entity Framework Core**
 * **SQL Server**
 ---
-
 ## 📂 Project Setup
 ### 1️Clone the Repository
 
