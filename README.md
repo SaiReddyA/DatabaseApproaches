@@ -11,7 +11,8 @@ You will learn how to:
 * **.NET Core 6/7/8/9**
 * **Entity Framework Core**
 * **SQL Server**
-  
+
+
 ---
 
 ## 📂 Project Setup
