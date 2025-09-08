@@ -9,10 +9,6 @@ You will learn how to:
 
 
 
-
-
-
-
 ## Tech Stack
 * **.NET Core 6/7/8/9**
 * **Entity Framework Core**
