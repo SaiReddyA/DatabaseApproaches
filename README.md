@@ -15,7 +15,7 @@ You will learn how to:
 * **SQL Server**
 ---
 ## 📂 Project Setup
-### 1️Clone the Repository
+### 1️ Clone the Repository
 ```bash
 git clone https://github.com/SaiReddyA/DatabaseApproaches.git
 cd DatabaseApproaches
