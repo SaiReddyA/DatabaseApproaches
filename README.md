@@ -7,8 +7,6 @@ You will learn how to:
 * Run migrations
 ---
 
-
-
 ## Tech Stack
 * **.NET Core 6/7/8/9**
 * **Entity Framework Core**
